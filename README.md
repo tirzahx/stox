@@ -11,7 +11,7 @@ We compare both methods on the **GXU.V stock** dataset (2015–2023).
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/tirzahx/stox.git
+git clone https://github.com/your-username/stox.git
 cd stox
 ```
 
